@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDB7pt_X0hV9r8E3doo4oS4a10-A54v8s0',
+    apiKey: '',
     appId: '1:352651126765:web:e6f6a250183ac688c629e4',
     messagingSenderId: '352651126765',
     projectId: 'farmerconnect-e7fc0',
