@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB2p4QEsulqntm2boHiiYnNWJLyOnqQDIs',
+    apiKey: '',
     appId: '1:352651126765:android:d87fe891b7d4aafcc629e4',
     messagingSenderId: '352651126765',
     projectId: 'farmerconnect-e7fc0',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDB7pt_X0hV9r8E3doo4oS4a10-A54v8s0',
+    apiKey: '',
     appId: '1:352651126765:web:d82124b8d25b7d09c629e4',
     messagingSenderId: '352651126765',
     projectId: 'farmerconnect-e7fc0',
